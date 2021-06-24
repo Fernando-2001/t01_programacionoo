@@ -1,5 +1,5 @@
 package t01_programacionoo;
 
-public class Doctor {
+public class Doctor extends Persona{
 
 }
