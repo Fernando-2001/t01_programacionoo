@@ -7,8 +7,7 @@ public class Main3 {
 
 		//imprimir la tabla del 7 multiplicado hasta el 12
 		
-		int n = 7;
-		for(int i=1; i>=12; i++) {
+		for(int i=1; i<=12; i++) {
 			int m = 7*i;
 			System.out.println("7*"+i+"="+i);
 		}
