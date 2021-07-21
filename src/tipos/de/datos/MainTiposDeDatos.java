@@ -11,7 +11,7 @@ public class MainTiposDeDatos {
 		long cantidadMundo = 1000000000;
 		float sueldo = 1200.56f;
 		double saldoBanco = 10000000.67;
-		char opcionMenu = 'c';
+		char opcionMenu = 'C';
 		boolean casado = true;
 		
 	}
