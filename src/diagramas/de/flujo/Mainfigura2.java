@@ -6,7 +6,8 @@ public class Mainfigura2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+/* Excelente Trabajo*/
+		
 		System.out.println("Ingrese el numero de filas 5: ");
 
 		Scanner in = new Scanner(System.in);
