@@ -1,8 +1,9 @@
 package juego.ajedrez;
 
-public class Piezas {
-	
+public abstract class Piezas {
+
 	public String color;
+
 	public String getColor() {
 		return color;
 	}
@@ -10,7 +11,6 @@ public class Piezas {
 	public void setColor(String color) {
 		this.color = color;
 	}
-
 
 	public String nombre;
 
@@ -22,8 +22,7 @@ public class Piezas {
 		this.nombre = nombre;
 	}
 
-	
 	public String toString() {
-		return nombre+color;
+		return nombre + color;
 	}
 }
